@@ -49,4 +49,9 @@
         <scope>test</scope>
     </dependency>
 
+    <dependency>
+    	<groupId>LFJ</groupId>
+    	<artifactId>LFJ</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
 </dependencies></project>
